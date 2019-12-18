@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
+
+.User {
+  font-family: "Lobster", cursive;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}

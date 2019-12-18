@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
+
+.Navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Lobster", cursive;
+  background-color: black;
+  height: 50px;
+}
+
+a {
+  text-decoration: none;
+}
